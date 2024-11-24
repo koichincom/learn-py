@@ -71,7 +71,7 @@ def front_back(a, b):
   # LAB(end solution)
 
 
-# Simple provided test() function used in main() to print
+# Simple provided test.py() function used in main() to print
 # what each function returns vs. what it's supposed to return.
 def test(got, expected):
   if got == expected:
@@ -82,7 +82,7 @@ def test(got, expected):
 
 
 # main() calls the above functions with interesting inputs,
-# using the above test() to check if the result is correct or not.
+# using the above test.py() to check if the result is correct or not.
 def main():
   print('verbing')
   test(verbing('hail'), 'hailing')

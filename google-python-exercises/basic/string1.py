@@ -64,7 +64,7 @@ def mix_up(a, b):
   return
 
 
-# Provided simple test() function used in main() to print
+# Provided simple test.py() function used in main() to print
 # what each function returns vs. what it's supposed to return.
 def test(got, expected):
   if got == expected:
@@ -75,7 +75,7 @@ def test(got, expected):
 
 
 # Provided main() calls the above functions with interesting inputs,
-# using test() to check if each result is correct or not.
+# using test.py() to check if each result is correct or not.
 def main():
   print('donuts')
   # Each line calls donuts, compares its result to the expected for that call.

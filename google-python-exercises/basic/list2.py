@@ -34,7 +34,7 @@ def linear_merge(list1, list2):
 # solution works in linear time, but is more ugly.
 
 
-# Simple provided test() function used in main() to print
+# Simple provided test.py() function used in main() to print
 # what each function returns vs. what it's supposed to return.
 def test(got, expected):
   if got == expected:

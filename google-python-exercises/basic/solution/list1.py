@@ -78,7 +78,7 @@ def sort_last(tuples):
   # LAB(end solution)
 
 
-# Simple provided test() function used in main() to print
+# Simple provided test.py() function used in main() to print
 # what each function returns vs. what it's supposed to return.
 def test(got, expected):
   if got == expected:
